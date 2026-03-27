@@ -1,6 +1,6 @@
-# Hi, I'm Anusha👋
+# About me 
 
-Curious learner exploring AI, accounting, and modern digital tools
+A curious learner exploring AI, accounting, and modern digital tools
 
 ## 🚀 What I'm Working On
 - AI in Accounting project  
