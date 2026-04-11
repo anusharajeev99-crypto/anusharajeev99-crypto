@@ -18,8 +18,7 @@ I’m learning step by step and using this space to document my progress and gro
 
 ## 📂 This Repository
 This is my learning space where I upload:
-- 📄 Certificates  
-- 📊 Excel practice files  
+- 📄 Certificates    
 - 🧠 Notes & small projects  
 
 ---
