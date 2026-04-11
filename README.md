@@ -31,6 +31,7 @@ This is my learning space where I upload:
 
 ## My Projects
 - Excel & Slides projects: [View Repository](https://github.com/anusharajeev99-crypto/Excel-and-Slides-Projects)
+- NotebookLm: [View Repository](https://github.com/anusharajeev99-crypto/GBL-NotebookLM-Internship-Anusha-Rajeev)
 
 ---
 
