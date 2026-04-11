@@ -30,5 +30,10 @@ This is my learning space where I upload:
 
 ---
 
+## My Projects
+- Excel & Slides projects
+
+---
+
 ⭐ Learning consistently and growing every day
 
