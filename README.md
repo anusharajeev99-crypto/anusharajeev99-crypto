@@ -1,25 +1,23 @@
-## 👩‍🎓 About Me
-Student building skills in commerce, finance, and Excel with a goal to become a Chartered Accountant (CA).
+# Hi, I'm Anusha Rajeev 👋
+
+## 👩‍🎓 Student | Future CA
+
+I’m a student currently building my skills in commerce, finance, and Excel as I work towards becoming a Chartered Accountant.
+
+I’m learning step by step and using this space to document my progress and growth.
 
 ---
 
 ## 📚 Currently Learning
-- 📊 Excel (sorting, formulas, data handling)
+- 📊 Excel (formulas, sorting, data handling)
 - 📚 Coursera courses (Wharton & others)
-- 🧠 NotebookLM mindmaps
-- 🔗 LinkedIn content & professional growth
-
----
-
-## 🛠️ Skills
-- Microsoft Excel (Beginner)
-- Basic Accounting
-- Data Organization
-- Digital Tools (GitHub, Notion)
+- 🧠 Creating mindmaps and notes
+- 🔗 Building my professional presence on LinkedIn
 
 ---
 
 ## 📂 This Repository
+This is my learning space where I upload:
 - 📄 Certificates  
 - 📊 Excel practice files  
 - 🧠 Notes & small projects  
@@ -27,8 +25,10 @@ Student building skills in commerce, finance, and Excel with a goal to become a 
 ---
 
 ## 🔗 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusha%20Rajeev-blue)](https://www.linkedin.com/in/anusharajeev)
 
 ---
 
-⭐ Building my journey step by step
+⭐ Learning consistently and growing every day
+
