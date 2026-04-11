@@ -1,11 +1,34 @@
-# About me 
+## 👩‍🎓 About Me
+Student building skills in commerce, finance, and Excel with a goal to become a Chartered Accountant (CA).
 
-A curious learner exploring AI, accounting, and modern digital tools
+---
 
-## 🚀 What I'm Working On
-- AI in Accounting project  
-- Creating presentations and flashcards  
+## 📚 Currently Learning
+- 📊 Excel (sorting, formulas, data handling)
+- 📚 Coursera courses (Wharton & others)
+- 🧠 NotebookLM mindmaps
+- 🔗 LinkedIn content & professional growth
 
-## 🌱 What I'm Learning
-- Basics of Artificial Intelligence  
-- How AI is used in accounting and finance
+---
+
+## 🛠️ Skills
+- Microsoft Excel (Beginner)
+- Basic Accounting
+- Data Organization
+- Digital Tools (GitHub, Notion)
+
+---
+
+## 📂 This Repository
+- 📄 Certificates  
+- 📊 Excel practice files  
+- 🧠 Notes & small projects  
+
+---
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anusha%20Rajeev-blue)](https://www.linkedin.com/in/anusharajeev)
+
+---
+
+⭐ Building my journey step by step
