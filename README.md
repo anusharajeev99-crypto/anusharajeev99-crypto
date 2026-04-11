@@ -2,9 +2,9 @@
 
 ## 👩‍🎓 Student | Aspiring CA
 
-I’m a student currently building my skills in commerce, finance, and Excel as I work towards becoming a Chartered Accountant.
+I’m a commerce student currently building my skills in commerce, finance, and Excel as I work towards becoming a Chartered Accountant.
 
-I’m learning step by step and using this space to document my progress and growth.
+I’m learning Excel and Accounting Basics step by step and using this space to document my progress and growth.
 
 ---
 
