@@ -1,6 +1,6 @@
 # Hi, I'm Anusha Rajeev 👋
 
-## 👩‍🎓 Student | Future CA
+## 👩‍🎓 Student | Aspiring CA
 
 I’m a student currently building my skills in commerce, finance, and Excel as I work towards becoming a Chartered Accountant.
 
