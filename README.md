@@ -2,24 +2,32 @@
 
 ## 👩‍🎓 Student | Aspiring CA
 
-I’m a commerce student currently building my skills in commerce, finance, and Excel as I work towards becoming a Chartered Accountant.
-
-I’m learning Excel and Accounting Basics step by step and using this space to document my progress and growth.
+I am a student currently learning and building skills in Excel, accounting, and AI tools.
 
 ---
 
-## 📚 Currently Learning
-- 📊 Excel (formulas, sorting, data handling)
-- 📚 Coursera courses (Wharton & others)
-- 🧠 Creating mindmaps and notes
-- 🔗 Building my professional presence on LinkedIn
+## 📚 What I'm Learning
+- Microsoft Excel (data handling and analysis)
+- Basics of accounting
+- Exploring AI tools for learning
 
 ---
 
-## 📂 This Repository
-This is my learning space where I upload:
-- 📄 Certificates    
-- 🧠 Notes & small projects  
+## 📂 My Work
+- 📊 Excel Practice  
+  Learning Excel step by step with practical tasks  
+- 🤖 NotebookLM Work  
+  Using AI tools to create notes and summaries  
+- 📘 Career Research  
+  Exploring career paths in commerce and accounting  
+
+---
+
+## 🎯 My Goal
+To build a strong foundation in commerce and develop skills useful for my future career.
+
+## 🚀 Progress
+I am continuously learning and updating my work as I improve my skills.
 
 ---
 
