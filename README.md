@@ -2,7 +2,7 @@
 
 ## 👩‍🎓 Student | Aspiring CA
 
-I am a student currently learning and building skills in Excel, accounting, and AI tools.
+I am a grade 11 student currently learning and building skills in Excel, accounting, and AI tools.
 
 ---
 
